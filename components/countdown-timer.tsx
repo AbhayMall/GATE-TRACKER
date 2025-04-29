@@ -37,7 +37,7 @@ export default function CountdownTimer() {
       <CardContent className="flex items-center gap-2 p-4">
         <Clock className="h-5 w-5" />
         <span className="font-bold">{daysLeft} days, {hoursLeft} hours</span>
-        <span>290 left until GATE Exam (Feb 1, 2026)</span>
+        <span>left until GATE Exam (Feb 1, 2026)</span>
       </CardContent>
     </Card>
   )
